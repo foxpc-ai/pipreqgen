@@ -1,6 +1,6 @@
-# Reqgen
+# PipReqgen
 
-Reqgen is a Python-based tool that automatically generates a `requirements.txt` file for a given Python or Jupyter notebook file.
+Pipreqeqgen is a Python-based tool that automatically generates a `requirements.txt` file for a given Python or Jupyter notebook file.
 
 ## Features
 
@@ -10,10 +10,10 @@ Reqgen is a Python-based tool that automatically generates a `requirements.txt` 
 
 ## Installation
 
-To install Reqgen, you can use pip:
+To install Pipreqgen, you can use pip:
 
 ```bash
-pip install reqgen
+pip install pipreqgen
 ```
 
 

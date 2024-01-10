@@ -1,7 +1,7 @@
 import unittest
 import os
 import json
-from reqgen.extract_imports import extract_imports, extract_imports_from_ipynb, get_versions
+from pipreqgen.extract_imports import extract_imports, extract_imports_from_ipynb, get_versions
 
 class TestExtractImports(unittest.TestCase):
     def setUp(self):
